@@ -1,0 +1,7 @@
+{
+  "/page": "app/page.js",
+  "/blocks/new/page": "app/blocks/new/page.js",
+  "/blocks/edit/[...url]/page": "app/blocks/edit/[...url]/page.js",
+  "/blocks/delete/[id]/page": "app/blocks/delete/[id]/page.js",
+  "/blocks/[id]/page": "app/blocks/[id]/page.js"
+}

@@ -1,0 +1,30 @@
+{
+  "node": {
+    "88dc2b20dd34ada215aee584d93bf668916ff916": {
+      "workers": {
+        "app/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Clapno%5C%5CDocuments%5C%5Cnextjs%5C%5Csrc%5C%5Capp%5C%5CgetBlocks.tsx%22%2C%5B%22default%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/page": "action-browser"
+      }
+    },
+    "85fce1aeebe50fdb9afd5aa39c28664d92e4cb3a": {
+      "workers": {
+        "app/blocks/new/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Clapno%5C%5CDocuments%5C%5Cnextjs%5C%5Csrc%5C%5Capp%5C%5Cblocks%5C%5Cnew%5C%5Cpage.tsx%22%2C%5B%22%24%24ACTION_0%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/blocks/new/page": "rsc"
+      }
+    },
+    "22ed5d4cdeb4e8e98c7503169b29a57833442485": {
+      "workers": {
+        "app/blocks/edit/[...url]/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Clapno%5C%5CDocuments%5C%5Cnextjs%5C%5Csrc%5C%5Capp%5C%5Cblocks%5C%5Cedit%5C%5C%5B...url%5D%5C%5CeditBlock.tsx%22%2C%5B%22default%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/blocks/edit/[...url]/page": "action-browser"
+      }
+    }
+  },
+  "edge": {},
+  "encryptionKey": "y7yK7HsYohV8gfe5fF+YdjfjWIq6k4xEgvj9ruVnUOQ="
+}
